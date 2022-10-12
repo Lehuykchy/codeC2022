@@ -7,3 +7,5 @@ int main(){
 	printf("\n%p  %p",pc, &c);
 	getch();
 }
+
+// tài s?a
